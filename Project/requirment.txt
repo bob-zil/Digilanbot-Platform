@@ -1,0 +1,7 @@
+python-telegram-bot
+torch==2.0.1
+transformers
+pandas
+numpy
+pickle
+sk-learn
